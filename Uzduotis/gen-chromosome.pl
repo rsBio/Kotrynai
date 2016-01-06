@@ -101,7 +101,7 @@ print "Sukurti failus: STR ir COORDS?\n";
 		open my $out_str, '>', "$&.str" or die "$0: can't: $!!\n";
 		print { $out_str } $str, $/;
 		open my $out_coords, '>', "$&.coords" or die "$0: can't: $!!\n";
-		print { $out_str } $coords, $/;
+		print { $out_coords } $coords, $/;
 	};
 
 
