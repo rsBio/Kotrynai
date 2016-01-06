@@ -1,0 +1,1 @@
+8. Parašykite progamą, kuri dviejuose (ar daugiau genomų) surastų konservatyvias blokines sritis, t.y. tokias sritis, kuriose atsikartoja homologiniai genai, genų išsidėstymas, kryptis ir pan. Identifikuojamos srities ilgis vartotojas turi galėti keisti. Kaip atsakymą programa turi pateikti sritis ir jų buvimo vietas genomuose.  (UŽIMTA)
